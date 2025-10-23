@@ -1,0 +1,1 @@
+repo ini berisi semua catatan belajar saya.

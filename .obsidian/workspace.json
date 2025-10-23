@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/PHP/00 Introduction to PHP.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Introduction to PHP"
+              "title": "README.md"
             }
           },
           {
@@ -152,21 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of README.md"
+            }
+          },
+          {
+            "id": "ccc1fea990cc607f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +193,7 @@
   "active": "ec1b693d6c59c046",
   "lastOpenFiles": [
     "Programming/Languages/Javascript/00 Introduction to Javascript.md",
+    "README.md.md",
     "Programming/Languages/PHP/00 Introduction to PHP.md",
     "Roadmap/Backend Roadmap.md",
     "Linux/01 Introduction To Linux.md",
