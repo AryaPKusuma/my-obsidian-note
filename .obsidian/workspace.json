@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming/Languages/Javascript/Pengenalan Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pengenalan Javascript"
             }
           },
           {
             "id": "399766d252952a68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Concept-Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "1e84a8b2e38f49f9",
@@ -176,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,27 +192,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec1b693d6c59c046",
+  "active": "399766d252952a68",
   "lastOpenFiles": [
-    "Programming/Languages/Javascript/00 Introduction to Javascript.md",
-    "README.md",
-    "Programming/Languages/PHP/00 Introduction to PHP.md",
+    "Roadmap/PHP.md",
     "Roadmap/Backend Roadmap.md",
+    "Roadmap/Javascript.md",
+    "Programming/Languages/Javascript/Variable.md",
+    "Programming/Languages/Javascript/Pengenalan Javascript.md",
+    "Programming/Concept/Scripting Language.md",
+    "Programming/Concept/Compiled Language.md",
+    "Programming/Concept/Expression dan Statement.md",
+    "Programming/Concept/Runtime.md",
+    "README.md",
+    "Welcome.md",
+    "Learn Kanban.md",
+    "image.png",
+    "Resources/Images/compile-process.png",
+    "Resources/Images/image.png",
+    "Resources/Images/expresion-statement.png",
+    "Resources/Images",
+    "Programming/Runtime/NodeJs/00 Pengenalan NodeJS.md",
+    "Programming/Languages/SQL",
+    "Programming/Runtime/Bun/Bun.md",
+    "Programming/Runtime/Bun",
+    "Programming/Languages/Typescript/00 Pengenalan Typescript.md",
+    "Programming/Runtime/NodeJs",
+    "Programming/Runtime",
+    "Programming/Languages/Typescript/01 Setup Typescript.md",
+    "Programming/Languages/PHP/00 Pengenalan PHP.md",
+    "Programming/Languages/Typescript",
     "Linux/01 Introduction To Linux.md",
     "Programming/Concept",
     "Programming/Languages",
     "Programming/Languages/PHP",
     "Programming/Languages/Javascript",
-    "Infratructure",
-    "Linux",
-    "Programming",
-    "Resources",
-    "Infratructure/Internet",
-    "Roadmap/Untitled Diagram.svg",
-    "Welcome.md",
-    "Roadmap"
+    "Roadmap/Untitled Diagram.svg"
   ]
 }
